@@ -1,0 +1,10 @@
+
+1. passAuth, 
+2. stringLen, if greater than 5, then print string, else print none
+
+1. pallindrome
+2. input sentence, find repeated words, keep first one, remove second third fourth duplicates
+
+viva questions
+3 PPTs from UART
+LCD won't ask, just syntax
